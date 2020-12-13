@@ -55,7 +55,6 @@ hslider bounds(608, 386, 150, 50) channel("GustsResonance") range(0, 1, 0, 1, 0.
 </CsOptions>
 <CsInstruments>
 
-sr = 44100 
 ksmps = 32
 nchnls = 2
 0dbfs	= 1 
