@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CABBAGE_PRESETS>
+  <PRESET0 PresetName="CABBAGE_PRESETS 0" Presets="1" GlobalVolume="1.0"
+           GlobalCutoff="10000.0" GlobalAttack="2.0" GlobalDecay="1.0" GlobalSustain="1.0"
+           GlobalRelease="2.0" ReverbMix="0.2000000029802322" ReverbSize="0.699999988079071"
+           WooingVolume="1.0" WooingFrequency="700.0" WooingRange="1.0"
+           WooingRate="1.0" WooingBandwidth="25.0" WooingResonance="0.0"
+           WooingHarmonizerFreq="0.0" WooingHarmonizerVol="0.0" RumbleVolume="0.0"
+           RumbleCutoff="200.0" RumbleDistortion="0.0" BackgroundVolume="1.0"
+           BackgroundFrequency="400.0" BackgroundRange="0.05000000074505806"
+           BackgroundRate="1.0" BackgroundBandwidth="100.0" BackgroundResonance="0.0"
+           BackgroundHarmonizerFreq="0.0" BackgroundHarmonizerVol="0.0"
+           GustsVolume="1.0" GustsFrequency="400.0" GustsRange="1.5" GustsRate="1.0"
+           GustsBandwidth="100.0" GustsResonance="0.0"/>
+</CABBAGE_PRESETS>
