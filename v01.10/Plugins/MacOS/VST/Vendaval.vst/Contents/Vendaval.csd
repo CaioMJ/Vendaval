@@ -42,7 +42,7 @@ hslider bounds(414, 236, 150, 50) range(1, 3, 0.05, 1, 0.05) channel("Background
 hslider bounds(414, 286, 150, 50) range(0.5, 3, 1, 1, 0.05) channel("BackgroundRate") text("Rate") trackercolour(188, 151, 49, 255) textcolour(255, 255, 255, 255)
 hslider bounds(414, 336, 150, 50) range(100, 250, 100, 1, 1) channel("BackgroundBandwidth") text("Bandwidth") trackercolour(188, 151, 49, 255) textcolour(255, 255, 255, 255)
 hslider bounds(414, 386, 150, 50) range(0, 1, 0, 1, 0.01) channel("BackgroundResonance") text("Resonance") trackercolour(188, 151, 49, 255) textcolour(255, 255, 255, 255)
-hslider bounds(414, 436, 150, 50) range(1, 3, 0, 1, 0.1) channel("BackgroundHarmonizerFreq") text("Harmonizer Freq") trackercolour(188, 151, 49, 255) textcolour(255, 255, 255, 255)
+hslider bounds(414, 436, 150, 50) range(1, 3, 0, 1, 0.01) channel("BackgroundHarmonizerFreq") text("Harmonizer Freq") trackercolour(188, 151, 49, 255) textcolour(255, 255, 255, 255)
 hslider bounds(414, 486, 150, 50) range(0, 1, 0, 1, 0.01) channel("BackgroundHarmonizerVol") text("Harmonizer Vol") trackercolour(188, 151, 49, 255) textcolour(255, 255, 255, 255)
 
 //Gusts
