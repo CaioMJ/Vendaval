@@ -26,8 +26,8 @@ hslider bounds(218, 236, 150, 50) range(1, 5, 1, 1, 0.05) text("Range") channel(
 hslider bounds(218, 286, 150, 50) range(0.5, 3, 1, 1, 0.05) text("Rate") channel("WooingRate") trackercolour(188, 151, 49, 255) textcolour(255, 255, 255, 255)
 hslider bounds(218, 336, 150, 50) range(1, 100, 25, 1, 1) text("Bandwidth") channel("WooingBandwidth") trackercolour(188, 151, 49, 255) textcolour(255, 255, 255, 255)
 hslider bounds(218, 386, 150, 50) range(0, 1, 0, 0.5, 0.01) channel("WooingResonance") text("Resonance") trackercolour(188, 151, 49, 255) textcolour(255, 255, 255, 255)
-hslider bounds(218, 436, 150, 50) range(1, 3, 0, 1, 0.01) channel("WooingHarmonizerFreq") text("Harmonizer Freq") trackercolour(188, 151, 49, 255) textcolour(255, 255, 255, 255)
-hslider bounds(218, 486, 150, 50) range(0, 1, 0, 1, 0.01) channel("WooingHarmonizerVol") text("Harmonizer Vol") trackercolour(188, 151, 49, 255) textcolour(255, 255, 255, 255)
+hslider bounds(218, 436, 150, 50) range(1, 3, 0, 1, 0.01) channel("WooingHarmonizerFreq") text("Harmony Freq") trackercolour(188, 151, 49, 255) textcolour(255, 255, 255, 255)
+hslider bounds(218, 486, 150, 50) range(0, 1, 0, 1, 0.01) channel("WooingHarmonizerVol") text("Harmony Vol") trackercolour(188, 151, 49, 255) textcolour(255, 255, 255, 255)
 
 //Rumble
 label bounds(804, 100, 151, 28) text("Rumble") fontcolour(255, 255, 255, 255)
@@ -42,8 +42,8 @@ hslider bounds(414, 236, 150, 50) range(1, 3, 0.05, 1, 0.05) channel("Background
 hslider bounds(414, 286, 150, 50) range(0.5, 3, 1, 1, 0.05) channel("BackgroundRate") text("Rate") trackercolour(188, 151, 49, 255) textcolour(255, 255, 255, 255)
 hslider bounds(414, 336, 150, 50) range(100, 250, 100, 1, 1) channel("BackgroundBandwidth") text("Bandwidth") trackercolour(188, 151, 49, 255) textcolour(255, 255, 255, 255)
 hslider bounds(414, 386, 150, 50) range(0, 1, 0, 1, 0.01) channel("BackgroundResonance") text("Resonance") trackercolour(188, 151, 49, 255) textcolour(255, 255, 255, 255)
-hslider bounds(414, 436, 150, 50) range(1, 3, 0, 1, 0.01) channel("BackgroundHarmonizerFreq") text("Harmonizer Freq") trackercolour(188, 151, 49, 255) textcolour(255, 255, 255, 255)
-hslider bounds(414, 486, 150, 50) range(0, 1, 0, 1, 0.01) channel("BackgroundHarmonizerVol") text("Harmonizer Vol") trackercolour(188, 151, 49, 255) textcolour(255, 255, 255, 255)
+hslider bounds(414, 436, 150, 50) range(1, 3, 0, 1, 0.01) channel("BackgroundHarmonizerFreq") text("Harmony Freq") trackercolour(188, 151, 49, 255) textcolour(255, 255, 255, 255)
+hslider bounds(414, 486, 150, 50) range(0, 1, 0, 1, 0.01) channel("BackgroundHarmonizerVol") text("Harmony Vol") trackercolour(188, 151, 49, 255) textcolour(255, 255, 255, 255)
 
 //Gusts
 label bounds(608, 100, 162, 28) text("Gusts") fontcolour(255, 255, 255, 255)

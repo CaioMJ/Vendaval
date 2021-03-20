@@ -21,16 +21,17 @@
            BackgroundRate="1.0" BackgroundBandwidth="100.0" BackgroundResonance="0.0"
            GustsVolume="0.0" GustsFrequency="400.0" GustsRange="1.5" GustsRate="1.0"
            GustsBandwidth="100.0" GustsResonance="0.0"/>
-  <PRESET2 PresetName="Stormy Gusts" Presets="Stormy Gusts" GlobalVolume="1.0"
+  <PRESET2 PresetName="Stormy Gusts" Presets="Soft Howling" GlobalVolume="1.0"
            GlobalCutoff="2215.0" GlobalAttack="2.0" GlobalDecay="1.0" GlobalSustain="1.0"
            GlobalRelease="2.0" ReverbMix="0.4699999988079071" ReverbSize="0.7699999809265137"
            WooingVolume="0.0" WooingFrequency="1378.0" WooingRange="1.100000023841858"
            WooingRate="0.6000000238418579" WooingBandwidth="41.0" WooingResonance="0.0"
            RumbleVolume="0.0" RumbleCutoff="200.0" RumbleDistortion="0.0"
-           BackgroundVolume="0.3999999761581421" BackgroundFrequency="664.0"
-           BackgroundRange="1.399999976158142" BackgroundRate="1.5" BackgroundBandwidth="209.0"
-           BackgroundResonance="0.6399999856948853" GustsVolume="1.0" GustsFrequency="530.0"
-           GustsRange="2.25" GustsRate="1.25" GustsBandwidth="235.0" GustsResonance="0.5399999618530273"/>
+           BackgroundVolume="0.2999999821186066" BackgroundFrequency="745.0"
+           BackgroundRange="2.099999904632568" BackgroundRate="1.800000071525574"
+           BackgroundBandwidth="206.0" BackgroundResonance="0.4599999785423279"
+           GustsVolume="1.0" GustsFrequency="700.0" GustsRange="2.549999952316284"
+           GustsRate="2.450000047683716" GustsBandwidth="235.0" GustsResonance="0.6699999570846558"/>
   <PRESET3 PresetName="Bone Chilling" Presets="1" GlobalVolume="0.5099999904632568"
            GlobalCutoff="10000.0" GlobalAttack="3.100000143051147" GlobalDecay="1.0"
            GlobalSustain="1.0" GlobalRelease="3.300000190734863" ReverbMix="0.429999977350235"
@@ -51,5 +52,16 @@
            BackgroundRate="0.5" BackgroundBandwidth="125.0" BackgroundResonance="0.7299999594688416"
            GustsVolume="0.0" GustsFrequency="400.0" GustsRange="1.5" GustsRate="1.0"
            GustsBandwidth="100.0" GustsResonance="0.0"/>
-
+  <PRESET5 PresetName="Through The Window" Presets="1" GlobalVolume="1.0" GlobalCutoff="10000.0"
+           GlobalAttack="2.0" GlobalDecay="1.0" GlobalSustain="1.0" GlobalRelease="2.0"
+           ReverbMix="0.4099999964237213" ReverbSize="0.6299999952316284"
+           WooingVolume="1.0" WooingFrequency="475.0" WooingRange="1.0"
+           WooingRate="1.0" WooingBandwidth="25.0" WooingResonance="0.0"
+           WooingHarmonizerFreq="1.269999980926514" WooingHarmonizerVol="1.0"
+           RumbleVolume="0.0" RumbleCutoff="200.0" RumbleDistortion="0.0"
+           BackgroundVolume="0.0" BackgroundFrequency="400.0" BackgroundRange="0.05000000074505806"
+           BackgroundRate="1.0" BackgroundBandwidth="100.0" BackgroundResonance="0.0"
+           BackgroundHarmonizerFreq="0.0" BackgroundHarmonizerVol="0.0"
+           GustsVolume="0.0" GustsFrequency="400.0" GustsRange="1.5" GustsRate="1.0"
+           GustsBandwidth="100.0" GustsResonance="0.0"/>
 </CABBAGE_PRESETS>
