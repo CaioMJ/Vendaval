@@ -3,10 +3,10 @@ form caption("Vendaval"), size(1000,550), colour(1, 1, 1), pluginId("cja1")
 //Signature
 label bounds(350, 4, 300, 41) text("V E N D A V A L") fontColour(188, 151, 49, 255)
 label bounds(410, 48, 180, 19) text("by Caio M. Jiacomini") fontColour(255, 255, 255, 255)
-label bounds(10, 8, 118, 20) text("PRESETS") fontColour(188, 151, 49, 255)
+label bounds(10, 8, 118, 20) text("PRESETS") fontColour(255, 255, 255, 255) 
 combobox bounds(9, 36, 264, 32) channelType("string") populate("*.snaps") fontColour(188, 151, 49, 255)  fontColour(188, 151, 49, 255) channel("combo6") text("Reset", "Soft Howling", "Stormy Gusts", "Bone Chilling", "Spooky Howling", "Through The Window") value("1")
-filebutton bounds(140, 4, 64, 33) text("Save", "Save") mode("named preset") fontColour:0(188, 151, 49, 255)
-filebutton bounds(208, 4, 64, 33) text("Delete", "Delete") mode("remove snapshot") fontColour:0(188, 151, 49, 255)
+filebutton bounds(140, 4, 64, 33) text("Save", "Save") mode("named preset") 
+filebutton bounds(208, 4, 64, 33) text("Delete", "Delete") mode("remove preset") 
 
 //Global
 label bounds(24, 100, 150, 26) text("Global") fontColour(255, 255, 255, 255) 

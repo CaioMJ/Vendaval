@@ -1,67 +1,272 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<CABBAGE_PRESETS>
-  <PRESET0 PresetName="Reset" Presets="1" GlobalVolume="1.0" GlobalCutoff="10000.0"
-           GlobalAttack="2.0" GlobalDecay="1.0" GlobalSustain="1.0" GlobalRelease="2.0"
-           ReverbMix="0.2000000029802322" ReverbSize="0.699999988079071"
-           WooingVolume="1.0" WooingFrequency="700.0" WooingRange="1.0"
-           WooingRate="1.0" WooingBandwidth="25.0" WooingResonance="0.0"
-           RumbleVolume="0.0" RumbleCutoff="200.0" RumbleDistortion="0.0"
-           BackgroundVolume="1.0" BackgroundFrequency="400.0" BackgroundRange="0.05000000074505806"
-           BackgroundRate="1.0" BackgroundBandwidth="100.0" BackgroundResonance="0.0"
-           GustsVolume="1.0" GustsFrequency="400.0" GustsRange="1.5" GustsRate="1.0"
-           GustsBandwidth="100.0" GustsResonance="0.0"/>
-  <PRESET1 PresetName="Soft Howling" Presets="1" GlobalVolume="1.0" GlobalCutoff="2215.0"
-           GlobalAttack="2.0" GlobalDecay="1.0" GlobalSustain="1.0" GlobalRelease="2.0"
-           ReverbMix="1.0" ReverbSize="0.6299999952316284" WooingVolume="1.0"
-           WooingFrequency="480.0" WooingRange="1.0" WooingRate="0.6000000238418579"
-           WooingBandwidth="20.0" WooingResonance="0.0" RumbleVolume="0.0"
-           RumbleCutoff="200.0" RumbleDistortion="0.0" BackgroundVolume="0.0"
-           BackgroundFrequency="400.0" BackgroundRange="0.05000000074505806"
-           BackgroundRate="1.0" BackgroundBandwidth="100.0" BackgroundResonance="0.0"
-           GustsVolume="0.0" GustsFrequency="400.0" GustsRange="1.5" GustsRate="1.0"
-           GustsBandwidth="100.0" GustsResonance="0.0"/>
-  <PRESET2 PresetName="Stormy Gusts" Presets="Soft Howling" GlobalVolume="1.0"
-           GlobalCutoff="2215.0" GlobalAttack="2.0" GlobalDecay="1.0" GlobalSustain="1.0"
-           GlobalRelease="2.0" ReverbMix="0.4699999988079071" ReverbSize="0.7699999809265137"
-           WooingVolume="0.0" WooingFrequency="1378.0" WooingRange="1.100000023841858"
-           WooingRate="0.6000000238418579" WooingBandwidth="41.0" WooingResonance="0.0"
-           RumbleVolume="0.0" RumbleCutoff="200.0" RumbleDistortion="0.0"
-           BackgroundVolume="0.2999999821186066" BackgroundFrequency="745.0"
-           BackgroundRange="2.099999904632568" BackgroundRate="1.800000071525574"
-           BackgroundBandwidth="206.0" BackgroundResonance="0.4599999785423279"
-           GustsVolume="1.0" GustsFrequency="700.0" GustsRange="2.549999952316284"
-           GustsRate="2.450000047683716" GustsBandwidth="235.0" GustsResonance="0.6699999570846558"/>
-  <PRESET3 PresetName="Bone Chilling" Presets="1" GlobalVolume="0.5099999904632568"
-           GlobalCutoff="10000.0" GlobalAttack="3.100000143051147" GlobalDecay="1.0"
-           GlobalSustain="1.0" GlobalRelease="3.300000190734863" ReverbMix="0.429999977350235"
-           ReverbSize="0.85999995470047" WooingVolume="1.0" WooingFrequency="1361.0"
-           WooingRange="4.050000190734863" WooingRate="2.25" WooingBandwidth="100.0"
-           WooingResonance="0.02999999932944775" RumbleVolume="1.0" RumbleCutoff="200.0"
-           RumbleDistortion="1.0" BackgroundVolume="1.0" BackgroundFrequency="800.0"
-           BackgroundRange="2.599999904632568" BackgroundRate="3.0" BackgroundBandwidth="250.0"
-           BackgroundResonance="0.25" GustsVolume="1.0" GustsFrequency="537.0"
-           GustsRange="3.25" GustsRate="3.0" GustsBandwidth="350.0" GustsResonance="0.5"/>
-  <PRESET4 PresetName="Spooky Howling" Presets="Reset" GlobalVolume="1.0"
-           GlobalCutoff="10000.0" GlobalAttack="2.0" GlobalDecay="1.0" GlobalSustain="1.0"
-           GlobalRelease="2.0" ReverbMix="0.5299999713897705" ReverbSize="0.8399999737739563"
-           WooingVolume="1.0" WooingFrequency="375.0" WooingRange="1.0"
-           WooingRate="0.6499999761581421" WooingBandwidth="31.0" WooingResonance="0.07999999821186066"
-           RumbleVolume="0.0" RumbleCutoff="200.0" RumbleDistortion="0.0"
-           BackgroundVolume="0.5" BackgroundFrequency="449.0" BackgroundRange="1.350000023841858"
-           BackgroundRate="0.5" BackgroundBandwidth="125.0" BackgroundResonance="0.7299999594688416"
-           GustsVolume="0.0" GustsFrequency="400.0" GustsRange="1.5" GustsRate="1.0"
-           GustsBandwidth="100.0" GustsResonance="0.0"/>
-  <PRESET5 PresetName="Through The Window" Presets="1" GlobalVolume="1.0" GlobalCutoff="10000.0"
-           GlobalAttack="2.0" GlobalDecay="1.0" GlobalSustain="1.0" GlobalRelease="2.0"
-           ReverbMix="0.4099999964237213" ReverbSize="0.6299999952316284"
-           WooingVolume="1.0" WooingFrequency="475.0" WooingRange="1.0"
-           WooingRate="1.0" WooingBandwidth="25.0" WooingResonance="0.0"
-           WooingHarmonizerFreq="1.269999980926514" WooingHarmonizerVol="1.0"
-           RumbleVolume="0.0" RumbleCutoff="200.0" RumbleDistortion="0.0"
-           BackgroundVolume="0.0" BackgroundFrequency="400.0" BackgroundRange="0.05000000074505806"
-           BackgroundRate="1.0" BackgroundBandwidth="100.0" BackgroundResonance="0.0"
-           BackgroundHarmonizerFreq="0.0" BackgroundHarmonizerVol="0.0"
-           GustsVolume="0.0" GustsFrequency="400.0" GustsRange="1.5" GustsRate="1.0"
-           GustsBandwidth="100.0" GustsResonance="0.0"/>
-</CABBAGE_PRESETS>
+ {
+    "Reset": {
+        "form1": 0.0,
+        "label3": 0.0,
+        "label4": 0.0,
+        "label5": 0.0,
+        "label11": 0.0,
+        "GlobalVolume": 1.0,
+        "GlobalCutoff": 10000.0,
+        "GlobalAttack": 2.0,
+        "GlobalDecay": 1.0,
+        "GlobalSustain": 1.0,
+        "GlobalRelease": 2.0,
+        "label19": 0.0,
+        "ReverbMix": 0.20000000298023224,
+        "ReverbSize": 0.699999988079071,
+        "label23": 0.0,
+        "WooingVolume": 1.0,
+        "WooingFrequency": 700.0,
+        "WooingRange": 1.0,
+        "WooingRate": 1.0,
+        "WooingBandwidth": 25.0,
+        "WooingResonance": 0.0,
+        "WooingHarmonizerFreq": 0.0,
+        "WooingHarmonizerVol": 0.0,
+        "label34": 0.0,
+        "RumbleVolume": 0.0,
+        "RumbleCutoff": 200.0,
+        "RumbleDistortion": 0.0,
+        "label39": 0.0,
+        "BackgroundVolume": 1.0,
+        "BackgroundFrequency": 400.0,
+        "BackgroundRange": 0.05000000074505806,
+        "BackgroundRate": 1.0,
+        "BackgroundBandwidth": 100.0,
+        "BackgroundResonance": 0.0,
+        "BackgroundHarmonizerFreq": 0.0,
+        "BackgroundHarmonizerVol": 0.0,
+        "label50": 0.0,
+        "GustsVolume": 1.0,
+        "GustsFrequency": 400.0,
+        "GustsRange": 1.5,
+        "GustsRate": 1.0,
+        "GustsBandwidth": 100.0,
+        "GustsResonance": 0.0
+    },
+    "Soft Howling": {
+        "form1": 0.0,
+        "label3": 0.0,
+        "label4": 0.0,
+        "label5": 0.0,
+        "label11": 0.0,
+        "GlobalVolume": 1.0,
+        "GlobalCutoff": 10000.0,
+        "GlobalAttack": 2.0,
+        "GlobalDecay": 1.0,
+        "GlobalSustain": 1.0,
+        "GlobalRelease": 2.0,
+        "label19": 0.0,
+        "ReverbMix": 0.8799999952316284,
+        "ReverbSize": 0.5799999833106995,
+        "label23": 0.0,
+        "WooingVolume": 1.0,
+        "WooingFrequency": 479.0,
+        "WooingRange": 1.0,
+        "WooingRate": 0.5,
+        "WooingBandwidth": 25.0,
+        "WooingResonance": 0.0,
+        "WooingHarmonizerFreq": 1.0,
+        "WooingHarmonizerVol": 0.0,
+        "label34": 0.0,
+        "RumbleVolume": 0.0,
+        "RumbleCutoff": 200.0,
+        "RumbleDistortion": 0.0,
+        "label39": 0.0,
+        "BackgroundVolume": 0.0,
+        "BackgroundFrequency": 400.0,
+        "BackgroundRange": 1.0,
+        "BackgroundRate": 1.0,
+        "BackgroundBandwidth": 100.0,
+        "BackgroundResonance": 0.0,
+        "BackgroundHarmonizerFreq": 1.0,
+        "BackgroundHarmonizerVol": 0.0,
+        "label50": 0.0,
+        "GustsVolume": 0.0,
+        "GustsFrequency": 400.0,
+        "GustsRange": 1.5,
+        "GustsRate": 1.0,
+        "GustsBandwidth": 150.0,
+        "GustsResonance": 0.0
+    },
+    "Stormy Gusts": {
+        "form1": 0.0,
+        "label3": 0.0,
+        "label4": 0.0,
+        "label5": 0.0,
+        "label11": 0.0,
+        "GlobalVolume": 1.0,
+        "GlobalCutoff": 10000.0,
+        "GlobalAttack": 2.0,
+        "GlobalDecay": 1.0,
+        "GlobalSustain": 1.0,
+        "GlobalRelease": 2.0,
+        "label19": 0.0,
+        "ReverbMix": 0.3799999952316284,
+        "ReverbSize": 0.7699999809265137,
+        "label23": 0.0,
+        "WooingVolume": 0.0,
+        "WooingFrequency": 479.0,
+        "WooingRange": 1.0,
+        "WooingRate": 0.5,
+        "WooingBandwidth": 25.0,
+        "WooingResonance": 0.0,
+        "WooingHarmonizerFreq": 1.0,
+        "WooingHarmonizerVol": 0.0,
+        "label34": 0.0,
+        "RumbleVolume": 0.0,
+        "RumbleCutoff": 200.0,
+        "RumbleDistortion": 0.0,
+        "label39": 0.0,
+        "BackgroundVolume": 0.3700000047683716,
+        "BackgroundFrequency": 713.0,
+        "BackgroundRange": 2.1500000953674316,
+        "BackgroundRate": 1.8000000715255737,
+        "BackgroundBandwidth": 202.0,
+        "BackgroundResonance": 0.3999999761581421,
+        "BackgroundHarmonizerFreq": 1.0,
+        "BackgroundHarmonizerVol": 0.0,
+        "label50": 0.0,
+        "GustsVolume": 1.0,
+        "GustsFrequency": 700.0,
+        "GustsRange": 2.799999952316284,
+        "GustsRate": 2.549999952316284,
+        "GustsBandwidth": 227.0,
+        "GustsResonance": 0.6599999666213989
+    },
+    "Bone Chilling": {
+        "form1": 0.0,
+        "label3": 0.0,
+        "label4": 0.0,
+        "label5": 0.0,
+        "label11": 0.0,
+        "GlobalVolume": 1.0,
+        "GlobalCutoff": 10000.0,
+        "GlobalAttack": 2.0,
+        "GlobalDecay": 1.0,
+        "GlobalSustain": 1.0,
+        "GlobalRelease": 2.0,
+        "label19": 0.0,
+        "ReverbMix": 0.41999998688697815,
+        "ReverbSize": 0.8299999833106995,
+        "label23": 0.0,
+        "WooingVolume": 1.0,
+        "WooingFrequency": 1375.0,
+        "WooingRange": 4.050000190734863,
+        "WooingRate": 2.200000047683716,
+        "WooingBandwidth": 100.0,
+        "WooingResonance": 0.029999999329447746,
+        "WooingHarmonizerFreq": 1.0,
+        "WooingHarmonizerVol": 0.0,
+        "label34": 0.0,
+        "RumbleVolume": 1.0,
+        "RumbleCutoff": 200.0,
+        "RumbleDistortion": 1.0,
+        "label39": 0.0,
+        "BackgroundVolume": 1.0,
+        "BackgroundFrequency": 800.0,
+        "BackgroundRange": 2.6500000953674316,
+        "BackgroundRate": 3.0,
+        "BackgroundBandwidth": 250.0,
+        "BackgroundResonance": 0.22999998927116394,
+        "BackgroundHarmonizerFreq": 1.0,
+        "BackgroundHarmonizerVol": 0.0,
+        "label50": 0.0,
+        "GustsVolume": 1.0,
+        "GustsFrequency": 522.0,
+        "GustsRange": 3.25,
+        "GustsRate": 3.0,
+        "GustsBandwidth": 350.0,
+        "GustsResonance": 0.4899999797344208
+    },
+    "Spooky Howling": {
+        "form1": 0.0,
+        "label3": 0.0,
+        "label4": 0.0,
+        "label5": 0.0,
+        "label11": 0.0,
+        "GlobalVolume": 1.0,
+        "GlobalCutoff": 10000.0,
+        "GlobalAttack": 2.0,
+        "GlobalDecay": 1.0,
+        "GlobalSustain": 1.0,
+        "GlobalRelease": 2.0,
+        "label19": 0.0,
+        "ReverbMix": 0.41999998688697815,
+        "ReverbSize": 0.8299999833106995,
+        "label23": 0.0,
+        "WooingVolume": 1.0,
+        "WooingFrequency": 381.0,
+        "WooingRange": 1.0,
+        "WooingRate": 0.75,
+        "WooingBandwidth": 30.0,
+        "WooingResonance": 0.08999999612569809,
+        "WooingHarmonizerFreq": 1.0,
+        "WooingHarmonizerVol": 0.0,
+        "label34": 0.0,
+        "RumbleVolume": 0.0,
+        "RumbleCutoff": 60.0,
+        "RumbleDistortion": 0.0,
+        "label39": 0.0,
+        "BackgroundVolume": 0.4399999976158142,
+        "BackgroundFrequency": 445.0,
+        "BackgroundRange": 1.350000023841858,
+        "BackgroundRate": 0.5,
+        "BackgroundBandwidth": 133.0,
+        "BackgroundResonance": 0.7400000095367432,
+        "BackgroundHarmonizerFreq": 1.0,
+        "BackgroundHarmonizerVol": 0.0,
+        "label50": 0.0,
+        "GustsVolume": 0.0,
+        "GustsFrequency": 300.0,
+        "GustsRange": 1.0,
+        "GustsRate": 0.5,
+        "GustsBandwidth": 184.0,
+        "GustsResonance": 0.0
+    },
+    "Through The Window": {
+        "form1": 0.0,
+        "label3": 0.0,
+        "label4": 0.0,
+        "label5": 0.0,
+        "label11": 0.0,
+        "GlobalVolume": 1.0,
+        "GlobalCutoff": 10000.0,
+        "GlobalAttack": 2.0,
+        "GlobalDecay": 1.0,
+        "GlobalSustain": 1.0,
+        "GlobalRelease": 2.0,
+        "label19": 0.0,
+        "ReverbMix": 0.41999998688697815,
+        "ReverbSize": 0.8299999833106995,
+        "label23": 0.0,
+        "WooingVolume": 1.0,
+        "WooingFrequency": 476.0,
+        "WooingRange": 1.0,
+        "WooingRate": 1.0,
+        "WooingBandwidth": 28.999998092651367,
+        "WooingResonance": 0.0,
+        "WooingHarmonizerFreq": 1.2699999809265137,
+        "WooingHarmonizerVol": 1.0,
+        "label34": 0.0,
+        "RumbleVolume": 0.0,
+        "RumbleCutoff": 60.0,
+        "RumbleDistortion": 0.0,
+        "label39": 0.0,
+        "BackgroundVolume": 0.0,
+        "BackgroundFrequency": 445.0,
+        "BackgroundRange": 1.350000023841858,
+        "BackgroundRate": 0.5,
+        "BackgroundBandwidth": 133.0,
+        "BackgroundResonance": 0.7400000095367432,
+        "BackgroundHarmonizerFreq": 1.0,
+        "BackgroundHarmonizerVol": 0.0,
+        "label50": 0.0,
+        "GustsVolume": 0.0,
+        "GustsFrequency": 300.0,
+        "GustsRange": 1.0,
+        "GustsRate": 0.5,
+        "GustsBandwidth": 184.0,
+        "GustsResonance": 0.0
+    }
+}
